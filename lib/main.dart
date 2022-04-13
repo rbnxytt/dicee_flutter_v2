@@ -1,3 +1,4 @@
+import 'package:dicee/screen/dice_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,11 +14,4 @@ void main() {
       ),
     ),
   );
-}
-
-class DicePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Container();
-  }
 }
